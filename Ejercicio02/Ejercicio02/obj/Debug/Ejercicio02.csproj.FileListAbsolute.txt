@@ -1,0 +1,6 @@
+D:\a\Fac\PU\2_1Taller1\Repositorios\Local\tp5---2021-br1595\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\a\Fac\PU\2_1Taller1\Repositorios\Local\tp5---2021-br1595\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\a\Fac\PU\2_1Taller1\Repositorios\Local\tp5---2021-br1595\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\a\Fac\PU\2_1Taller1\Repositorios\Local\tp5---2021-br1595\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+D:\a\Fac\PU\2_1Taller1\Repositorios\Local\tp5---2021-br1595\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\a\Fac\PU\2_1Taller1\Repositorios\Local\tp5---2021-br1595\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
