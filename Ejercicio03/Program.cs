@@ -58,7 +58,14 @@ namespace Ejercicio03
             Console.WriteLine("Cuadrado: {0}", Math.Pow(Dato1, 2.0));
 
             //La raíz cuadrada
-            Console.WriteLine("Raíz caudrada: {0}", Math.Sqrt(Dato1));
+            if (Dato1 < 0)
+            {                
+                Console.WriteLine("No es posible obtener la Raíz caudrada de un número negativo para el conjunto de los números reales");
+            }
+            else
+            {                
+                Console.WriteLine("Raíz caudrada: {0}", Math.Sqrt(Dato1));
+            }
 
             //El seno
             Console.WriteLine("Seno: {0}", Math.Sin(Dato1));
