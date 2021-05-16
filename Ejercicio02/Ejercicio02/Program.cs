@@ -8,7 +8,7 @@ namespace Ejercicio02
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             char Opcion = 's';
 
@@ -97,16 +97,16 @@ namespace Ejercicio02
             switch (Opcion)
             {
                 case 1:
-                    Console.WriteLine("\nSuma\n '{0}' + '{1}' = '{2}'", Dato1, Dato2, Dato1 + Dato2);
+                    Console.WriteLine("\nSuma\n {0} + {1} = {2}", Dato1, Dato2, Dato1 + Dato2);
                     break;
                 case 2:
-                    Console.WriteLine("\nResta\n '{0}' - '{1}' = '{2}'", Dato1, Dato2, Dato1 - Dato2);
+                    Console.WriteLine("\nResta\n {0} - {1} = {2}", Dato1, Dato2, Dato1 - Dato2);
                     break;
                 case 3:
-                    Console.WriteLine("\nMultiplicacion\n '{0}' * '{1}' = '{2}'", Dato1, Dato2, Dato1 * Dato2);
+                    Console.WriteLine("\nMultiplicacion\n {0} * {1} = {2}", Dato1, Dato2, Dato1 * Dato2);
                     break;
                 case 4:
-                    Console.WriteLine("\nDivision\n '{0}' / '{1}' = '{2}'", Dato1, Dato2, Dato1 / Dato2);
+                    Console.WriteLine("\nDivision\n {0} / {1} = {2}, Dato1, Dato2, Dato1 / Dato2);
                     break;
                 default:
                     break;
